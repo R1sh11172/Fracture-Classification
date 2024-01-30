@@ -1,7 +1,7 @@
 # Bone-Break-Classification
 
 ### Project Description
-I developed a robust bone break classification system employing PyTorch and state-of-the-art EfficientNet/VisionTransformer models to accurately identify 10 distinct types of fractures. Utilizing computer vision and machine learning models and techniques, the system analyzed a dataset of over 1120 medical images to classify fractures. Additionally, I implemented a user-friendly interface using Gradio, to allow for simple user input to identify the bone break. 
+I developed a robust bone break classification system employing PyTorch and state-of-the-art EfficientNet/VisionTransformer models to accurately identify 10 distinct types of fractures. Utilizing computer vision and machine learning models and techniques, the system analyzed a dataset of over 1120 medical images to classify fractures. Additionally, I implemented a user-friendly interface using Gradio to allow for simple user input, allowing the user to upload images and see the predicted bone break. 
 
 ### Technologies Used
 - PyTorch
