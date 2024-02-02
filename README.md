@@ -9,7 +9,7 @@ I developed a robust bone break classification system employing PyTorch and stat
 - Gradio
 
 ### Why did I build it?
-I initiated the project with a focus on creating a practical solution for healthcare. Motivated by the desire to create a project useful for this field, I developed the bone break classification system to serve as a valuable tool to detect the specific type of fracture that occurred. 
+I initiated the project with a focus on creating a practical solution for healthcare. Motivated by the desire to create a project useful for this field, I developed the bone break classification system to serve as a valuable tool to detect the specific type of fracture in any image that the user uploads. 
 
 ### Resources
 - Dataset: https://www.kaggle.com/datasets/pkdarabi/bone-break-classification-image-dataset
